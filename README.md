@@ -79,7 +79,7 @@ const Component = () => {
   console.log('something')
 
   return (
-    <div>I did NOT have to write the return keyword, oh yeah!</div>
+    <div>I did have to write the return keyword!</div>
   )
 )
 ```
